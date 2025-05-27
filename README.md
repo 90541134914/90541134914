@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 👋 Hi, I'm Unish Giri
+# 👋 Hi, I'm Unish Giri
 
 📍 Toronto, Canada  
 📧 unishgiri15@gmail.com  
@@ -11,18 +9,51 @@
 
 ## 🎯 Profile
 
-Motivated and creative professional with experience as a Line Cook at Cactus Club Cafe, known for thriving in fast-paced, team-oriented kitchen environments while maintaining high standards of quality and efficiency. Also skilled as a Content Creator at Monarch Nepal, developing engaging visual and
+Motivated and creative professional with experience as a Line Cook at Cactus Club Cafe, known for thriving in fast-paced, team-oriented kitchen environments while maintaining high standards of quality and efficiency. Also skilled as a Content Creator at Monarch Nepal, developing engaging visual and digital content for branding, marketing, and social media. Strong ability to multitask, adapt quickly, and bring creative energy to both culinary and content creation settings.
 
-**90541134914/90541134914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Photography  
+- Website Design  
+- Videography  
+- Communication  
+- Content Creation & Digital Media  
+- Social Media Content Planning  
+- Team Collaboration  
+- Time Management  
+- Food Safety & Kitchen Operations  
+- Multitasking Under Pressure
+
+---
+
+## 🎓 Education
+
+**Interactive Media Design**  
+*Algonquin College*  
+📆 Jan 2024 – Present
+
+---
+
+## 💼 Work Experience
+
+### Line Cook  
+*Cactus Club Cafe · Toronto*  
+📆 Jan 2024 – Present  
+- Adapted quickly to daily menu changes, seasonal items, and dietary restrictions.  
+- Consistently delivered high-quality results under pressure.
+
+### Content Creator  
+*Monarch Nepal*  
+📆 Jan 2017 – Mar 2018  
+- Produced and published 50+ pieces of original content (video, photo, blog, and social media) per quarter.  
+- Platforms included Instagram, TikTok, YouTube, and LinkedIn.
+
+---
+
+## 📬 Contact
+
+📧 hello@reallygreatsite.com  
+🌍 [reallygreatsite.com](http://reallygreatsite.com)  
+🏠 123 Anywhere St., Any City
